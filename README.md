@@ -1,2 +1,4 @@
-# jenkins_show_board
-create jenkins show board &amp; result collection
+# Jenkins show board
+
+## show the build status of jenkins jobs 
+## collect the build & test result 
